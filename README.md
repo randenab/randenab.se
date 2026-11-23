@@ -1,8 +1,8 @@
 # randenab.se
 
-Randen AB's website: one static page served by GitHub Pages.
+Randen AB's website: a static company site (English at `/`, Swedish at `/sv/`) served by GitHub Pages.
 
-- `index.html` is the whole site.
+- `index.html` is the English page and `sv/index.html` the Swedish one.
 - `CNAME` points Pages at randenab.se.
 
 DNS lives in Cloudflare. The apex needs A records to GitHub Pages
